@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre": "Santi",
+        "apellido": "Curi",
+        "email": "juan_perez@gmail.com",
+        "edad": 20,
+        "altura": 1.80,
+        "activo": true,
+        "fechaDeCreacion": "13/12/2021"
+    },
+    {
+        "id": 2,
+        "nombre": "Santi2",
+        "apellido": "Curi2",
+        "email": "curi@gmail.com",
+        "edad": 25,
+        "altura": 1.80,
+        "activo": false,
+        "fechaDeCreacion": "13/12/2021"
+    }
+]
